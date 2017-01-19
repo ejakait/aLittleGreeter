@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "aLittleGreeter-executor",
+    "name": "aLittleGreeter",
+    "region": "us-west-2"
+  },
+  "api": {
+    "id": "25klvd8x6c",
+    "module": "bot"
+  }
+}

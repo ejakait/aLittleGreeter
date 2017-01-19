@@ -1,0 +1,19 @@
+{
+  "name": "aLittleGreeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "files": [
+    "*.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caleb",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-api-builder": "^2.4.0",
+    "claudia-bot-builder": "^2.12.0",
+    "huh": "^2.0.1"
+  }
+}
